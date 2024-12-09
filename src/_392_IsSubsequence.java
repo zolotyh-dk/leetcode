@@ -1,6 +1,6 @@
-public class _392_Is_Subsequence {
+public class _392_IsSubsequence {
     public static void main(String[] args) {
-        _392_Is_Subsequence solution = new _392_Is_Subsequence();
+        _392_IsSubsequence solution = new _392_IsSubsequence();
         String s1 = "abc";
         String t1 = "ahbgdc";
         System.out.println(solution.isSubsequence(s1, t1));
